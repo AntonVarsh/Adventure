@@ -20,7 +20,7 @@ previous =  [
             }
         ]
 
-#
+
 def next_move():
     response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
