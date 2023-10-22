@@ -1,9 +1,8 @@
 import textwrap
 import openai
 import random
-# Paste this key bellow: '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'
-# Openai doesn't allow keys to be publically shared. This is just for the competition though and will be reset after
-openai.api_key = 'YOUR KEY HERE' # put in the key above or nothing will work
+
+openai.api_key = 'YOUR KEY HERE'
 # imports everything and key ^
 
 # Chooeses random character setting and item
