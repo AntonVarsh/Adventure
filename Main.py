@@ -60,7 +60,6 @@ def main():
             if counter > 8:
                 del previous[2:4]
 
-            print(previous)
 
 
 main()
